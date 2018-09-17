@@ -1,0 +1,7 @@
+html 
+{
+  font-size: 18px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Ruslan Display', cursive;
+  text-align: center;
+  background-color: beige;
+}
